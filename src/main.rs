@@ -7,8 +7,10 @@ mod vectors ;
 mod conditional ; 
 mod loops ; 
 mod function ; 
+mod pointer_ref; 
+mod structs  ; 
 fn main() {
-      function :: run()
+      structs :: run()
 //  // CONST 
 //     let mut x =  10 ; // mut = mutable có thể thay đỏi được 
 //     println!("x = {}",x);

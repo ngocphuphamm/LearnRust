@@ -6,8 +6,9 @@ mod array ;
 mod vectors ;
 mod conditional ; 
 mod loops ; 
+mod function ; 
 fn main() {
-      loops :: run()
+      function :: run()
 //  // CONST 
 //     let mut x =  10 ; // mut = mutable có thể thay đỏi được 
 //     println!("x = {}",x);

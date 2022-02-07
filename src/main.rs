@@ -10,8 +10,9 @@ mod function ;
 mod pointer_ref; 
 mod structs  ; 
 mod enums ; 
+mod cli ; 
 fn main() {
-      enums :: run()
+      cli :: run()
 //  // CONST 
 //     let mut x =  10 ; // mut = mutable có thể thay đỏi được 
 //     println!("x = {}",x);

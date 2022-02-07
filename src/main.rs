@@ -1,8 +1,10 @@
 mod var ;
 mod types;
 mod string ; 
+mod  tuple ; 
+mod array ; 
 fn main() {
-      string :: run()
+      array :: run()
 //  // CONST 
 //     let mut x =  10 ; // mut = mutable có thể thay đỏi được 
 //     println!("x = {}",x);

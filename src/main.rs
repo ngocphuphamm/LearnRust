@@ -1,6 +1,8 @@
 mod var ;
+mod types;
+mod string ; 
 fn main() {
-      var :: run()
+      string :: run()
 //  // CONST 
 //     let mut x =  10 ; // mut = mutable có thể thay đỏi được 
 //     println!("x = {}",x);

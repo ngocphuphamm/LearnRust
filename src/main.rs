@@ -2,9 +2,12 @@ mod var ;
 mod types;
 mod string ; 
 mod  tuple ; 
-mod array ; 
+mod array ;
+mod vectors ;
+mod conditional ; 
+mod loops ; 
 fn main() {
-      array :: run()
+      loops :: run()
 //  // CONST 
 //     let mut x =  10 ; // mut = mutable có thể thay đỏi được 
 //     println!("x = {}",x);
